@@ -83,5 +83,4 @@ o L’application devra comporter des tests unitaires
 o Le code devra être commenté
 o Vous êtes libre d’utiliser tous les outils et librairies à votre disposition
 L’attention sera portée sur l’architecture du code, sa qualité, la gestion des erreurs et dans une
-moindre mesure le packaging. Elle devra refléter une application développée dans un cadre
-professionnel.
+moindre mesure le packaging.
