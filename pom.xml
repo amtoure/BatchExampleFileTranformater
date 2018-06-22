@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>hardis.batch.file.transformer</groupId>
-  <artifactId>HardisBatchExampleFileTranformater</artifactId>
+  <artifactId>BatchExampleFileTranformater</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <properties>
@@ -26,7 +26,7 @@
          		<java.version>1.8</java.version>
          
         </properties>
-  <name>HardisBatchExampleFileTranformater</name>
+  <name>BatchExampleFileTranformater</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
